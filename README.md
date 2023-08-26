@@ -4,11 +4,19 @@ Welcome to my collection of HackerRank solutions in JavaScript. This repository 
 
 ## Table of Contents
 
+- [HackerRank Skill Certificates](#hackerrank-certificates)
 - [Introduction](#introduction)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## HackerRank Skill Certificates
+
+- [Problem Solving](https://www.hackerrank.com/certificates/26db7715fce0)
+- [JavaScript](https://www.hackerrank.com/certificates/064e0bbf64ab)
+- [React](https://www.hackerrank.com/certificates/f3c8c70cb204)
+- [CSS](https://www.hackerrank.com/certificates/c81ff5935ae4)
 
 ## Introduction
 
